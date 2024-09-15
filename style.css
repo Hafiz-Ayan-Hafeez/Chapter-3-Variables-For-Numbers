@@ -1,0 +1,27 @@
+.hello{
+    background-color: #0000fff1;
+    color: #0000ff80;
+    border: 2px solid #0000ff80;
+    padding: 60px;
+    margin-bottom: 70px;
+}
+
+.heading{
+    font-size: 2rem;
+    color: #000000;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+}
+
+.bottom{
+    background-color: #0000fff1;
+    color: #0000ff80;
+    border: 2px solid #0000ff80;
+    padding: 100px;
+    margin-top: 70px;
+}
+
+h2 , h3 , h4{
+    text-align: center;
+}
